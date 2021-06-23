@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">ArchitectureTest</string>
+	<string name="add_word">새로운 단어 추가</string>
+</resources>
